@@ -1,0 +1,4 @@
+# Ignore Unity shader code in the language list
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.wlt linguist-vendored
